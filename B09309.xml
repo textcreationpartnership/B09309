@@ -1,0 +1,456 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of advice to a friend about the currency of clipt-money wherein all the material clauses contain'd in the several acts made in these two last sessions of Parliament, for the cure of that evil are recited and now printed for the use of the publick.</title>
+            <author>R. J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09309</idno>
+            <idno type="STC">Wing J29</idno>
+            <idno type="STC">ESTC R179158</idno>
+            <idno type="EEBO-CITATION">62369341</idno>
+            <idno type="OCLC">ocm 62369341</idno>
+            <idno type="VID">187961</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09309)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187961)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2851:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of advice to a friend about the currency of clipt-money wherein all the material clauses contain'd in the several acts made in these two last sessions of Parliament, for the cure of that evil are recited and now printed for the use of the publick.</title>
+                  <author>R. J.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Castle, Next Scotland Yard Gate, near White-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to R. J. Cf. Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Currency question --  England --  Early works to 1800.</term>
+               <term>Money --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187961:1" rendition="simple:additions"/>
+            <p>A LETTER OF ADVICE to a FRIEND About the CURRENCY OF <hi>Clipt-Money</hi> WHEREIN All the Material Clauſes contain'd in the ſeveral ACTS made in theſe two laſt Seſſions of Parliament, for the Cure of that Evil, are recited;</p>
+            <p>And now Printed for the Uſe of the Publick.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edw. Caſtle</hi> next <hi>Scotland Yard</hi> Gate, near <hi>White-hall.</hi> 1696.</p>
+            <pb facs="tcp:187961:2" rendition="simple:additions"/>
+            <pb facs="tcp:187961:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:187961:3"/>
+            <pb n="3" facs="tcp:187961:3"/>
+            <head>A LETTER Concerning the Currency of Clipt Money.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Inconveniencies and Miſchiefs that the currency of clipt and coun<g ref="char:EOLhyphen"/>terfeit Money neceſſarily occaſions, are ſo manifeſt to every Body, (even to the meaneſt Capacity) that it is as needleſs to remonſtrate any of them, as it is impoſſible to enumerate them all. It violates all Contracts, and alters the meaſure of Trade, breeding confuſion in all Commerce, whether Domeſtick or Foreign; and confuſion is a Miſ<g ref="char:EOLhyphen"/>fortune ſo extenſive, that neither it, nor its ill conſequences can be deſcrib'd, and can only be comprehended by being felt.</p>
+            <p>Gold and Silver are the Materials which the conſent of Mankind has made the counterpoiſe or value of all other things; by which, Barter,
+<pb n="4" facs="tcp:187961:4"/>or the Exchange of one Commodity for ano<g ref="char:EOLhyphen"/>ther is avoided: And thoſe Metals are become the Inſtruments of Commerce; ſo that, for Ex<g ref="char:EOLhyphen"/>ample, inſtead of giving a Sack of Wheat, of which I have Store, for a Yard of Cloth, which I want, I now may for ſo much Gold or Silver as is by the conſent of Mankind the counterpoiſe or value of a Sack of Wheat, have the Yard of Cloth; and he that ſpared me the Yard of Cloth may with that Gold or Sil<g ref="char:EOLhyphen"/>ver procure from any body elſe a Sack of Wheat, or a leſs quantity (if he wants not ſo much as a Sack) with part of it, and other things which he wants with the reſidue.</p>
+            <p>A ſmall quantity of Gold or Silver is equal in value to very great quantities of other things; as for Inſtance, a Grain of Gold is worth a prodigious number of Grains of Wheat; ſo that whilſt thoſe Metals remain in the Lump, they are not adapted to the common Occa<g ref="char:EOLhyphen"/>ſions of Mankind: And beſides, they being ca<g ref="char:EOLhyphen"/>pable of being mixt with other Metals of leſs value, without its being diſcernible by the Eye that they are ſo mixt, there was a neceſſity of having pieces of thoſe Metals cut out into ſuch Sizes as ſuited with commerce, and of fixing a certain Standard of Fineneſs that thoſe Pieces ſhould be of, or elſe thoſe Metals would want much of their uſefulneſs, becauſe 'twou'd be difficult to cut the Pieces out of the Lump, and weigh them exactly as Men's
+<pb n="5" facs="tcp:187961:4"/>Occaſions requir'd: And the generality of People could not (for want of Skill) eſ<g ref="char:EOLhyphen"/>ſay them, and might thereby be liable to be cheated.</p>
+            <p>Hence it came to paſs that all Govern<g ref="char:EOLhyphen"/>ments, whoſe proper Office it is to take care their Subjects ſhould receive no In<g ref="char:EOLhyphen"/>jury, ordain'd that the Weight and Fine<g ref="char:EOLhyphen"/>neſs of theſe Metals, which ſhould be made uſe of in their Dominions, ſhou'd be aſ<g ref="char:EOLhyphen"/>certain'd, and made known to the Peo<g ref="char:EOLhyphen"/>ple; and to that end coining was in<g ref="char:EOLhyphen"/>ſtituted, and the Pieces of thoſe Metals ſo coin'd are what we call <hi>Money;</hi> ſo that <hi>Money</hi> is nothing elſe but Silver or Gold cut into Pieces of a certain known weight and fineneſs, which the Stamp and Name given them by the Government, warrants to the People to contain the quantity of Standard Gold or Silver they are current for.</p>
+            <p>If therefore thoſe Pieces contain not the quantity of Standard Gold or Silver they ought, that is to ſay, which their Denomination imports, whoſoever receives them is cheated, and the Faith of the Pub<g ref="char:EOLhyphen"/>lick violated, and the Government diſ<g ref="char:EOLhyphen"/>honoured; and this is the reaſon that coun<g ref="char:EOLhyphen"/>terfeiters of Coin, and clippers or dimi<g ref="char:EOLhyphen"/>ſhers of the true Coin in every Country are puniſhed capitally.</p>
+            <pb n="6" facs="tcp:187961:5"/>
+            <p>If in a time of neceſſity the Government ſhould coin Pieces of baſer Metal or leſs weight than the Standard, as the City of <hi>Rome</hi> did when ſtreightned by <hi>Hannibal,</hi> and in other Countries has been done in an Exigency of the State, thoſe Pieces wou'd not be Money, but Counters or Tickets, which the Government wou'd in Ho<g ref="char:EOLhyphen"/>nour and Juſtice be oblig'd to make good, and receive in again when the Exigency was over, and return and pay the Poſ<g ref="char:EOLhyphen"/>ſeſſors the full value of them in Standard Gold or Silver; and nothing but a confi<g ref="char:EOLhyphen"/>dence that the Government would faith<g ref="char:EOLhyphen"/>fully do ſo, could give them a currency as if they were true value: For Gold or Silver coming in the place of Commodities, and being taken inſtead of them in Barter, muſt of neceſſity be in the ſame condition that other Commodities would be, in caſe there were no Money. Now in caſe of Barter, 'tis not the Name, but the Quan<g ref="char:EOLhyphen"/>tity and Uſefulneſs of the commodity gives it the value. And the Government cou'd not arbitrarily ſet a certain Value for Goods in Barter, but the Value muſt and wou'd be (in ſpite of all Laws to the contrary) according to the Plenty or Scarcity of the Commodities, and Needs of the People. As ſuppoſe in a Country where there was no Money, a Law were
+<pb n="7" facs="tcp:187961:5"/>made that a Buſhel of Wheat ſhould ex<g ref="char:EOLhyphen"/>change for a Yard of Cloth, What Effect could that Law have, if Wheat were plen<g ref="char:EOLhyphen"/>ty, and Cloth were ſcarce? But if there ſhould after that be another Law made, that half a Buſhel ſhould be call'd a Buſhel, and exchang'd for as much as a Buſhel did before; if the Government ſhould have ne<g ref="char:EOLhyphen"/>ver ſo much need of Cloth, I doubt they would hardly get their Subjects to make it, and ſupply them therewith on thoſe Terms, unleſs the Government could teach them how to feed as many Mouths with half a Buſhel, as they did, or could with a whole Buſhel. But methinks there needs no Ar<g ref="char:EOLhyphen"/>gument to prove, that the Government of any Country can't make half an Ounce of Silver (or any thing leſs than an Ounce) purchaſe as much of any Commodity as an Ounce; whatever Name it gives to the half Ounce, tho' it were the very ſame Name the Ounce was call'd by before; un<g ref="char:EOLhyphen"/>leſs any body could think that a Man that had 400 Crowns, weighing an Ounce each, was no Richer than one that had 400 Crowns, weighing but half an Ounce each; and if there be any ſuch Perſon, let him enjoy his Fancy, I will not diſpute with him.</p>
+            <p>The quantity of Gold or Silver, being (then) that which gives the Value to the
+<pb n="8" facs="tcp:187961:6"/>Coin; all that any Government ought to do (or indeed can do) in coining, or making Money, is to eſſay the Metal, and weigh the Pieces, and ſet a Stamp on them, as a Mark, by which the People ſhall be inform'd what quantity of Gold or Silver is in each Piece.</p>
+            <p>All this I confeſs might be done by the Subjects themſelves, were they fit to be truſted: but ſince, if every one might coin his own Money, it would be impoſſible to prevent Fraud; therefore this Truſt is Lodg'd in the Government, which is preſum'd to do all things for the good and ſafety of the People, and nothing to their Prejudice, or in Deceit of them.</p>
+            <p>The Government of <hi>England</hi> has generally in all Ages been very careful in this Matter, as will appear by the antient and conſtant Con<g ref="char:EOLhyphen"/>ſtitutions and Indentures of the Mint: And with great Reaſon: For beſides the Duty of taking care that the Subject be kept from wrong; the Intereſt of all Govern<g ref="char:EOLhyphen"/>ments, obliges them to be careful and juſt in this Point; for its Stamp being a War<g ref="char:EOLhyphen"/>ranty of the Weight and Fineneſs of the Money, the Government is bound by that Warranty to make it good to the Subject, if the Money be defective in either Reſpect, and ſo the Parliament has judg'd this Seſ<g ref="char:EOLhyphen"/>ſion,
+<pb n="9" facs="tcp:187961:6"/>or elſe I can ſee no Reaſon at all for their Reſolution, <hi>that the Deficiency of clipt and baſe Money, ſhould be made good to the People, at the Charge of the Publick.</hi>
+            </p>
+            <p>And as the Government of <hi>England</hi> has al<g ref="char:EOLhyphen"/>ways taken care, that the Money ſhould be coin'd of its due Weight, and Fineneſs; ſo it has provided by Law, that none ſhould paſs, or be receiv'd, or payable, that was di<g ref="char:EOLhyphen"/>miniſh'd in its Weight; for by the antient Orders of the Exchequer, none was to be taken there, but what was weighed and tryed as well as told; and in common commerce, every body might refuſe falſe or light Money; and if any Perſon utter'd counterfeit or diminiſhed Money, know<g ref="char:EOLhyphen"/>ing it to be falſe or diminiſhed, he might be indicted, and puniſhed as guilty <hi>of a great Miſpriſion;</hi> and if he knew the Counterfeit<g ref="char:EOLhyphen"/>ers, or Diminiſhers of it, or utter'd it for them, <hi>he was partaker of their Crime, and guilty of High-Treaſon.</hi>
+            </p>
+            <p>But of late years notwithſtanding the good Proviſion of our Laws, our Silver Mo<g ref="char:EOLhyphen"/>ney has been (almoſt all that has been current amongſt us) either counterfeited or clipt, or otherways diminiſhed, and every body guilty of <hi>Miſpriſion</hi> in uttering it, knowing it to be ſuch.</p>
+            <pb n="10" facs="tcp:187961:7"/>
+            <p>What has been the Occaſion of this general Corruption, as well of the People as of our Money, is not my Buſineſs to enquire, my purpoſe is only to acquaint you what Remedy the Wiſdom of the Parliament has provided theſe two laſt Seſ<g ref="char:EOLhyphen"/>ſions, in order to our relief from a Misfor<g ref="char:EOLhyphen"/>tune, our Negligence (to ſay no worſe of it has ſuffer'd to grow upon us to ſuch <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Height, as had almoſt brought us to utte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ruin.</p>
+            <p>The Parliament laſt Year obſerv'd tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Moniers with adulterated and clip Money, bought up the broad and weight<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Money, in order to clip it, or melt i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> down, and therefore in <hi>an Act to preven<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> counterfeiting, and clipping the Coin of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Kingdom,</hi>
+               <note place="margin">Clauſe 1.</note> made 6 <hi>&amp;</hi> 7 <hi>Guliel. Tertii,</hi> a<g ref="char:EOLhyphen"/>mongſt other Things, 'tis enacted, <hi>Th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> from the firſt of</hi> May 1695,<note place="margin">Unclipt Money not to be ſold for more in Tale of Clipt.</note> 
+               <hi>If any Perſo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or Perſons whatſoever, ſhall at any Time <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Payment, exchange, lend, ſell, borrow, or buy receive or pay any broad Silver Money, or Si<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ver Money unclipt, of the Coin of this King<g ref="char:EOLhyphen"/>dom, for more in Tale, Benefit, Profit, or A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vantage, than the ſame was coin'd for, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ought by Law to go for, be lent, ſold for, bo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>row'd, receiv'd, or paid, ſhall forfeit the Su<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Ten Pounds, for every Twenty Shillings, th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſhall be ſo exchanged, lent, ſold, borrowed, bought, receiv'd or paid, and ſo in Proporti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:187961:7"/>for any greater or leſſer Sum:</hi> And this Penal<g ref="char:EOLhyphen"/>ty is given by the Act, one half to the King, the other to the Informer.</p>
+            <p>Before this Act, it began to be a common Trade to buy up weighty Silver Money, with clipt Pieces; and a Mill'd Crown-Piece would readily yeild five clipt Shillings and three Pence, and ſome were bought and ſold for five and Sixpence, and ſo it would have gon on, and the mill'd Money have riſen (as long as any had been left unmelted) until it had come to ſuch a Price, as that the clipt Pieces muſt have been ſo many that their Weight would have near equal<g ref="char:EOLhyphen"/>led the Crown to have bought it; but this Act put a ſtop to this Trade, and then the Dealers in Money, taking Advantage of the Acts not providing againſt giving more Pieces in Tale for coin'd Gold, than it was Coin'd for, preſently began to raiſe the Value of Guyneas, and gave 23 clipt Shillings fo a Guynea, which at Higheſt never yielded above 22 <hi>s.</hi> nor commonly more than their real Value, <hi>viz.</hi> 21 <hi>s.</hi> 6 <hi>d.</hi> till the beginning of <hi>March</hi> was twelve Month, and then few would take them as thoſe Jobbers and Moniers gave for them, I mean at 23 <hi>s.</hi> till theſe Traders in Coin had been about a Fortnight buying up all they could get at that Rate, and then they roſe apace; for by the beginning of <hi>May,</hi> they came to paſs at 25 <hi>s.</hi> the Guynea,
+<pb n="12" facs="tcp:187961:8"/>which was near the <hi>Par</hi> to the Value of the clipt Silver that was then current (and there was no other but clipt Money cur<g ref="char:EOLhyphen"/>rent) for immediately after the paſſing this Act, and riſe of Guyneas, all the weighty Money diſappear'd, and was hoarded up, as being of a certain Value, and therefore to be reckon'd real Treaſure, and more worth than Gold, when it had obtain'd ſuch <hi>an Imaginary</hi> (and I might add) <hi>crimi<g ref="char:EOLhyphen"/>nal Value,</hi> and evidently better than the current Money, which had loſt ſo much of its Weight by clipping. At this Rate of 25 <hi>s.</hi> the Guynea, ſtood for two or three Months, becauſe ſo much clipt Money weighed, one with another, as much as 21 <hi>s.</hi> or 21 <hi>s.</hi> 6 <hi>d.</hi> ought to weigh: But in theſe two or three Months, the Clippers were very buſily employ'd to make a new Advance of Gold, by leſſening the Silver and (wanting broad Weighty Mo<g ref="char:EOLhyphen"/>ney to work on) clipt over again that which had been before clipt, and as this ſecond clipping increaſed, the Guyneas be<g ref="char:EOLhyphen"/>gan to riſe again in their Price, till they came to 30 <hi>s.</hi> or upwards; nor would they have ſtop'd there, had not the Exchequer and Receivers of the publick Money re<g ref="char:EOLhyphen"/>fus'd to receive them, which gave them a check, at which many conſiderable <hi>Bankers,</hi> and <hi>Dealers</hi> in <hi>Money,</hi> raged and ſtorm'd extreamly, and omitted no endeavours to
+<pb n="13" facs="tcp:187961:8"/>force the Treaſury, to receive them at 30 <hi>s.</hi> at leaſt. And all this while the Dealers in Money gave all the Incouragement they could to the currency of clipt and baſe Money, by receiving it, tho' never ſo much clipt or apparently counterfeited.</p>
+            <p>And all along as our Guyneas roſe, and gain'd their <hi>hurtful Value,</hi> the Exchange in bur foreign Trade grew more, and more to our Diſadvantage; for Foreigners, when they found we our ſelves judg'd a quarter of an Ounce, and Nine Grains of Gold (which is the Weight of our Guyneas) was worth 25 or 30 <hi>s.</hi> of our Shillings, they exchang'd their Money, or gave Bills (which is the ſame thing) accordingly. And ſo we loſt as much by that, as the Guyneas advanc'd in their Price, which was <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt ſo much real Loſs to the Nation.</p>
+            <p>In this Condition the Parliament found us when they laſt met, <hi>viz. Novemb.</hi> 22.1695. And His Majeſty in his Speech, at the opening of the Seſſion, took Notice of the <hi>great Difficulty we lay under, by reaſon of the ill State of our Coin. The Redreſs of which may</hi> (ſays He) <hi>prove a farther Charge to the Nation;</hi>
+               <note place="margin">King's Speech.</note> 
+               <hi>but this is a matter of ſo general Concern, and of ſo very great Importance, that I have thought fit to leave it intirely to my Par<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ament.</hi>
+            </p>
+            <pb n="14" facs="tcp:187961:9"/>
+            <p>The 5th. <hi>Decemb.</hi> the Houſe of Lords reſolv'd on an Adreſs to be preſented to His Majeſty, to iſſue out a Proclamation <hi>that from ſuch a Day, or Days, as his Ma<g ref="char:EOLhyphen"/>jeſty ſhould think fit,</hi>
+               <note place="margin">Lords Ad<g ref="char:EOLhyphen"/>dreſs.</note> 
+               <hi>no clipt Money, of any ſort, ſhould paſs in Payment, as the current Coi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of this Kingdom,</hi> which they communica<g ref="char:EOLhyphen"/>ted to the Houſe of Commons, and de<g ref="char:EOLhyphen"/>ſir'd their concurrence in it. The next Da<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Commons took it into Conſideration and went into a Committee of the whol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Houſe, to conſider of the State of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Coin, and to conſider of a Fund to mak<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good the Deficiency of clipt Money; an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not going thorough with it that Day, the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> went into a Committe on it the next Day and (that being <hi>Saturday</hi>) ſo they did th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Monday</hi> following, when they perfecte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Reſolutions; which the next Day <hi>viz. Tueſday, Decemb.</hi> 10th. were reporte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and agreed to by the Houſe, and were follows, <hi>viz. That the moſt effectual Way, put a ſtop to the Miſchief, which the Nati<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſuffers by the currency of Clipt Money, is, to coin the ſame.</hi>
+            </p>
+            <p>
+               <hi>That all clipt Money be recoined, according the Eſtabliſh'd Standard of the Mint,</hi>
+               <note place="margin">Commons Votes.</note> 
+               <hi>both to Weight and Fineneſs.</hi>
+            </p>
+            <pb n="15" facs="tcp:187961:9"/>
+            <p>
+               <hi>That the Loſs of ſuch clipt Money, as is Silver, and coin'd at the lawful Mint of this Kingdom, ſhall be born by the Publick.</hi>
+            </p>
+            <p>
+               <hi>That a Day or Days be appointed, after which no clipt Crowns, or half Crowns be allow'd in Payment, or to paſs, except only to the Col<g ref="char:EOLhyphen"/>lectors and Receivers of His Majeſty's Reve<g ref="char:EOLhyphen"/>nues and Taxes, or upon Loans in Payment into the Exchequer.</hi>
+            </p>
+            <p>
+               <hi>That a Day or Days be appointed, after which no clipt Crowns or half Crowns, ſhall paſs in any Payment whatſoever.</hi>
+            </p>
+            <p>
+               <hi>That all ſuch Crowns and half Crowns, as they come into his Majeſty's Receit, be recoin'd into mill'd Money.</hi>
+            </p>
+            <p>
+               <hi>That a Day or Days be appointed, after which no Money clipt within the Ring, be allowed in Payment, or to paſs, except only to the Col<g ref="char:EOLhyphen"/>lectors and Receivers of His Majeſty's Revenues and Taxes, or upon Loans, or Payments into the Exchequer.</hi>
+            </p>
+            <p>
+               <hi>That a Day or Days be appointed, after which no Money clipt within the Ring, ſhall paſs in any Payment whatſoever.</hi>
+            </p>
+            <p>
+               <hi>That a Day or Days be appointed for all Per<g ref="char:EOLhyphen"/>ſon to bring in their clipt Money to be recoin'd
+<pb n="16" facs="tcp:187961:10"/>in mill'd Money, after which no Recompence ſhall be made for the ſame.</hi>
+            </p>
+            <p>
+               <hi>That a Fund or Funds be ſettled for ſupplying the Deficiency of clipt Money.</hi>
+            </p>
+            <p>The next day was a Day of Faſting and Humiliation; but the Day following they ordered an Addreſs to be made to his Ma<g ref="char:EOLhyphen"/>jeſty on theſe Reſolutions, and ordered a <hi>Bill to be brought in for Regulating the Silver Coin of this Kingdom.</hi>
+            </p>
+            <p>
+               <note place="margin">Commons Addreſs.</note>The 14th. the Houſe agreed to the Form of the Addreſs to be preſented to his Ma<g ref="char:EOLhyphen"/>jeſty on their Reſolutions, <hi>wherein they de<g ref="char:EOLhyphen"/>ſire him to appoint the Day or Days, after which no clipt Money ſhall paſs.</hi>
+            </p>
+            <p>
+               <note place="margin">Kings Anſwer.</note>The 17th. the King ſends them word, <hi>He would iſſue out a Proclamation accordingly,</hi> which was publiſhed the 19th. wherein is recited, <hi>that the Lords and Commons had ſeve<g ref="char:EOLhyphen"/>rally addreſt to him (by his Proclamation) to prevent the Currency of clipt Money,</hi>
+               <note place="margin">Proclama<g ref="char:EOLhyphen"/>tion.</note> 
+               <hi>and de<g ref="char:EOLhyphen"/>clares and commands, that after the firſt of</hi> Ja<g ref="char:EOLhyphen"/>nuary <hi>then next enſuing, no clipt Crowns or Half-Crowns, ſhould paſs in any Payment ex<g ref="char:EOLhyphen"/>cept to his Majeſty's Collectors and Receivers,</hi> &amp;c. <hi>nor after the</hi> 3d <hi>of</hi> February <hi>in any Payment whatſoever, within</hi> London <hi>or</hi> 40 <hi>Miles thereof,
+<pb n="17" facs="tcp:187961:10"/>nor after the 22th. of</hi> February <hi>in any other Part of the Kingdom,</hi> &amp;c. <hi>And that after the</hi> 13th. <hi>of</hi> February <hi>no Shilling clipt within the Ring ſhould paſs in any Payment, except to his Majeſty's Collectors,</hi> &amp;c. <hi>Nor after the</hi> ſe<g ref="char:EOLhyphen"/>cond <hi>of</hi> April <hi>in any Payment whatſo<g ref="char:EOLhyphen"/>ever.</hi>
+            </p>
+            <p>This Proclamation, nay even the Votes before the Proclamation, had the good Ef<g ref="char:EOLhyphen"/>fect, that immediately the Exchange alter<g ref="char:EOLhyphen"/>ed to our Advantage very conſiderably, in ſo much, that whereas a Pound <hi>Sterling,</hi> which formerly yielded Thirty ſix <hi>Dutch</hi> Skillings in Exchange, and ſince the Clipping our Money, and Advance of Guinea's would bring but 27 <hi>Dutch</hi> Skillings in Exchange (nay I have been told it was fallen to 25 Skillings) would now bring 31 Skillings and upwards. But this laſted not long, for the <hi>unlawful Price,</hi> or <hi>miſchievous Value of Guinea's</hi> keeping up, and ſome Delays and Difficulties happening in the paſſing the Act for <hi>Remedying the ill State of the Coin,</hi> the Exchange altered again, ſo that the Ex<g ref="char:EOLhyphen"/>change was at about 28 <hi>Skillings,</hi> becauſe every Body being able to coin his Gold in<g ref="char:EOLhyphen"/>to Guinea's, without any Expence, or much Delay, the Mint being obliged to do it <hi>gratis,</hi> our Silver was bought up, and ſent into <hi>Holland,</hi> where leſs than 16 Ounces of it would buy an Ounce of Gold, which
+<pb n="18" facs="tcp:187961:11"/>being brought hither and coined, would make Four Guinea's within Two-peny Weight, and thoſe Guinea's paſſing at 30 <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> each, produced ſix Pounds; whereas 16 Ounces of Silver coined here make but 4 <hi>l.</hi> 2 <hi>s.</hi> 8 <hi>d.</hi> and by this Means all our new Money, and all the Silver in the Kingdom was like to have been melted down, and carried away, and at the ſame time the Nation muſt have loſt as conſiderably by the Exchange. Therefore the Parliament reſolved to make <hi>an Act for taking off th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Obligation and Encouragement for coining Gui<g ref="char:EOLhyphen"/>neas for a certain time therein mentioned.</hi> which paſſed ſoon after the <hi>Act for Remedying th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ill Seate of the Coin:</hi> The Effect of a part of theſe Acts I ſhall here inſert for your Per<g ref="char:EOLhyphen"/>uſal, together with ſome Clauſes that are in other Acts paſſed this Seſſion with rela<g ref="char:EOLhyphen"/>tion to the Silver and Gold Coin, withou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtating to you the Occaſions of them, be<g ref="char:EOLunhyphen"/>cauſe neither my Time nor Paper will per<g ref="char:EOLunhyphen"/>mit it; for I muſt ſpare enough o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> both to make ſome Remarks on what th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Parliament hath done, and ſuggeſt to you what I take to be <hi>your Duty, and the Duty o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> every good Engliſhman</hi> to do on this Occa<g ref="char:EOLunhyphen"/>ſion, the Omiſſion of which may not on<g ref="char:EOLunhyphen"/>ly continue, but increaſe the Miſchiefs theſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Acts were made to cure, and in a littl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> time bring the Nation into utter Confuſi<g ref="char:EOLunhyphen"/>on, and irrecoverable Ruine. <hi>In the Act fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:187961:11"/>Remedying the ill Eſtate of the Coin of this Kingdom,</hi> The Preamble declares, <hi>That the Courſe of clipt Money amongſt us is to the un<g ref="char:EOLhyphen"/>ſpeakable Wrong and Prejudice of his Majeſty and his good Subjects in their Affairs, as well pub<g ref="char:EOLhyphen"/>lick as particular, and no ſufficient Remedy can be applied to the manifold Evils ariſing from Clipping the Money, without re-coining the clipt Pieces,</hi> and then provides regular and ef<g ref="char:EOLhyphen"/>fectual Methods for re-coining it. And in that Act are theſe Clauſes following.</p>
+            <p>
+               <note place="margin">
+                  <hi>Clauſe</hi> 2.</note>
+               <hi>Be it Enacted, That the Receivers and collectors, and other Officers intruſted with the Receipt or Collection of his Majeſty's Revenues, Impoſitions, Duties, Taxes, Aids, or Supplies, or any of them granted and in being, or here<g ref="char:EOLhyphen"/>after to be granted, ſhall, and by this Act are ſeverally required to accept and take in Payment for his Majeſty's Uſe, for or upon Account of the ſaid Revenues, Impoſitions, Duties, Taxes, Aids, Supplies reſpectively, ſuch clipt Moneys being Sterling-Silver, or being Monies of coarſer Alloy than the Standard, from ſuch Perſon or Perſons as ſhall tender the ſame in or for ſuch Payments reſpectively, at any time or times before the</hi> 4th <hi>of</hi> May, 1696, <hi>at the ſame Rate or Value as if ſuch Moneys were un<g ref="char:EOLhyphen"/>clipt or undiminiſh'd, and ſhall not refuſe any Piece or Pieces of Silver Money, ſo tendered, by Reaſon or Pretence of their being worſe, or hold<g ref="char:EOLhyphen"/>ing more Alloy than Standard-Silver, ſo as
+<pb n="20" facs="tcp:187961:12"/>ſuch price or prices do not evidently appear to be made of Copper or baſe Metal plated over or waſh'd with Silver only.</hi>
+            </p>
+            <p>
+               <hi>And the Tellers in the Receipt of his Majeſty's Exchequer reſpectively ſhall at any time or times before the</hi> 24th <hi>of</hi> June 1696, <hi>not only receive and take to his Majeſty's Uſe at the receipt of Ex<g ref="char:EOLhyphen"/>chequer the ſaid clipt Moneys which ſhall have been ſo receiv'd or collected by the Receivers-Gene<g ref="char:EOLhyphen"/>ral and Collectors or other Officers which ſhall be by them brought to the ſaid Receipt for the ſaid Revenues,</hi> &amp;c. <hi>but alſo any Loans in ſuch Mo<g ref="char:EOLhyphen"/>ny which ſhall be authoriz'd to be made or recei<g ref="char:EOLhyphen"/>ved there, unleſs ſuch Loans or Payments ſhall be ſpecially directed by Act of Parliament to be re<g ref="char:EOLhyphen"/>ceived in other kind of Money.</hi>
+            </p>
+            <p>Another Clauſe in the ſame Act recites <note place="margin">Clauſe 4.</note>
+               <hi>That the Money made with the Hammer and not with the Mill and Preſs, which remains whole and unclipt, will be liable to clipping and rounding. For the Prevention thereof, it is enacted, that e<g ref="char:EOLhyphen"/>very Perſon having unclipt hammered Money in his or her Cuſtody or Poſſeſſion do before the</hi> 10th <hi>of</hi> February 1695, <hi>or before they diſpoſe of the ſame, cauſe ſuch unclipt Money to be ſtruck through about the middle of every Piece with a ſolid Punch that ſhall make a Hole without diminiſh<g ref="char:EOLhyphen"/>ing the Silver; and that after the ſaid</hi> 10th <hi>of</hi> February <hi>no unclipt hammered Money, that is to ſay, ſuch Pieces as have both Rings, or the
+<pb n="21" facs="tcp:187961:12"/>greateſt Part of the Letters appearing thereon, ſhall be current unleſs it be ſo ſtruck through. And if any Peece ſo ſtruck through ſhall appear afterwards to be clipt, no Perſon ſhall <hi>tender</hi> or <hi>receive</hi> the ſame in Payment under the Penalty of forfeiting as much as the clipt Money ſo punch'd through ſhall amount unto in Tale, to be recover'd to the Uſe of the Poor of the Pariſh where ſuch Money ſhall be ſo tender'd or receiv'd. And his Majeſty's Juſtices of the Peace, or the major part of them in the general Quarter-Seſſions upon Complaint to be made to them of ſuch Offence, are hereby empower'd to take Cognizance thereof and to determine the ſame, and for that purpoſe to cauſe the Party complained of, to appear before them and on Conviction to iſſue their Warrant or War<g ref="char:EOLhyphen"/>rants to levy ſuch Penalty upon the Goods and Chattels of the Offenders.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>7mo</hi> Guil. 3tii.</note>And in the <hi>Act for granting to his Majeſty an Aip of Four Shillings in the Pound for one Year,</hi> for further Eaſe of the People,<note place="margin">Clauſe 5.</note> it is enacted, <hi>That thoſe that are willing may at any time before the the</hi> 4th <hi>of</hi> May 1996, <hi>pay to<g ref="char:EOLhyphen"/>gether with the firſt Quarterly Payment twice, thrice or four times as much as ſhall be aſſeſs'd or payable for the firſt Quarterly Payment, for or in reſpect of any Mannours, Lands, Tenements, Rents, Offices, perſonal Eſtate or other matterr or things reſpectively in clipt Moneys being Sterling Silver, or Silver of worſe Alloy than the Stan<g ref="char:EOLhyphen"/>dard, and the Collectors are empower'd to re<g ref="char:EOLhyphen"/>ceive
+<pb n="22" facs="tcp:187961:13"/>the ſame, and required on every ſuch Pay<g ref="char:EOLhyphen"/>ment to give an Acquittance expreſſing, the Summ received for ſuch Quarterly Payments,</hi> &amp;c. <hi>and every ſuch Acquittance ſhall be a good Diſcharge againſt his Majeſty, his Heirs, and Succeſſours, as if the Summ chargeable by the Act on ſuch Man<g ref="char:EOLhyphen"/>nours, Lands,</hi> &amp;c. <hi>were aſſeſs'd or anſwer'd at the ſeveral and reſpective Quarterly Payments appointed by the Act.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>7mo</hi> &amp; <hi>8mo</hi> Guil. 3tii.</note>
+               <hi>An Act for taking off the Obligation and En<g ref="char:EOLhyphen"/>couragement for coining Guineas for a certain time therein mention'd,</hi>
+            </p>
+            <p>Recites <hi>that great Quantities of Gold have been lately imported from Foreign Parts, which bein coin'd here into Guineas have been (Occaſion of the preſent ill State of our Silver Coin) taken and accepted by the Subjects of this Realm at very high and unuſual Rates and Prices, tending to the great Dammage and Loſs of the Publick, the Continuance of which Practice</hi> (ſays that Act) <hi>unleſs ſpeedily prevented, will run the Nation vaſtly in Doubt to Foreigners, for the Repayment whereof the Silver Moneys of this Kingdom muſt be inevitably exhauſted on Terms of great Ad<g ref="char:EOLhyphen"/>vantage: Therefore to prevent the further Growth of ſo great an Evil, enacts, That from and after the</hi> 2d <hi>of</hi> March 1695, <hi>till the</hi> 1ſt <hi>of</hi> January <hi>then next following,</hi>
+               <note place="margin">Clauſe 6.</note> 
+               <hi>there ſhall not be any Obligation of receiving into his Majeſty's</hi> Mint <hi>or</hi> Mints <hi>to be coin'd any Gold whatſoe<g ref="char:EOLhyphen"/>ver,
+<pb n="23" facs="tcp:187961:13"/>nor ſhall any of the Officers of his Majeſty's</hi> Mints <hi>be obliged to coin any Gold within the time aforeſaid for any Perſon whatſoever, except the Royal</hi> African Company, <hi>as to ſuch Gold as they import from</hi> Africa <hi>for their own Uſe.</hi>
+            </p>
+            <p>And declares that <hi>the Importation of Gui<g ref="char:EOLhyphen"/>neas from beyond the Seas may prove prejudicial to the Kingdom;</hi> and therefore enacts <hi>That all Guineas imported from the ſaid</hi> 2d <hi>of</hi> March <hi>to the ſaid</hi> 1ſt <hi>of</hi> January <hi>ſhall be forfeited, half to the King, and half to the Informer.</hi>
+            </p>
+            <p>In the <hi>Act to incourage the bringing Plate into the</hi> Mint <hi>to be coin'd,</hi>
+               <note place="margin">7<hi>mo.</hi> &amp; 8<hi>vo.</hi> Guil. 31<hi>ii.</hi>
+               </note> 
+               <hi>and for further re<g ref="char:EOLhyphen"/>medying the ill State of the Coin of this Kingdom,</hi> there are Clauſes to this Effect, <hi>viz.</hi>
+            </p>
+            <p>
+               <note place="margin">Clauſe 7.</note>
+               <hi>And to the end the Subject after ſo great Con<g ref="char:EOLhyphen"/>tribution and Charge for making for making good the Deficiency of clipt Money may not remain under any Part of the Miſchiefs which the Continuance of the Currency of ſuch Money will occaſion, be it farther enacted, that whoever after the</hi> 4th <hi>of</hi> May 1696, <hi>ſhall take or receive any ſuch clipt Money otherwiſe than according to the Directions, and in purſuance of an Act of this preſent Seſſion of Parliament,</hi> Entituled <hi>an Act for remedying the ill State of the Coin of this Kingdom in any Payment whatſoever as if it were lawful Money, ſhall forfeit double the Va<g ref="char:EOLhyphen"/>lue of the Silver ſo receiv'd to the Uſe of each
+<pb n="24" facs="tcp:187961:14"/>Perſon as will inform or proſecute for the ſame, to be recover'd in ſuch manner and form as the For<g ref="char:EOLhyphen"/>feiture for uttering clipt Money after a Hole has been punch'd through it, in purſuance of an Act made in this preſent Seſſion of Parliament is directed to be recover'd by the ſaid Act.</hi>
+               <note place="margin">
+                  <hi>Vide</hi> the Act for re<g ref="char:EOLhyphen"/>medying the ill State of the <hi>Coin,</hi> &amp;c.</note> 
+               <hi>And the Juſtices of the Peace are hereby impower'd to hear and determine ſuch Information or Proſecuti<g ref="char:EOLhyphen"/>on accordingly.</hi>
+            </p>
+            <p>
+               <note place="margin">Clauſe 8.</note>
+               <hi>And whereas the uncertain Value of coined Gold has been highly prejudicial to Trade, and an Encouragement to certain evil-diſpos'd Per<g ref="char:EOLhyphen"/>ſons to raiſe and fall the ſame to the great Preju<g ref="char:EOLhyphen"/>dice of the Landed Men of this Kingdom: Be it therefore enacted by the Authority aforeſaid that from and after the</hi> 10th <hi>of</hi> April 1696, <hi>no Perſon ſhall utter or receive any of the Pieces of Gold Coin commonly call'd Guineas at any higher or greater Rate or Value than two and twenty Shilling for each Guinea, and ſo proportionably for every greater or leſſer piece of coined Gold. And whoſoever ſhall offend herein, ſhall incur the Penalty and Forfeiture, provided in an Act made this preſent Parliament for thoſe that ſhall receive or pay Guineas and other pieces of coined Gold at a greatrr or higher Rate than in that Act is di<g ref="char:EOLhyphen"/>rected to be recover'd by the ſame Ways and Means that the Penalties and Forfeitures of that Act are to be or may be, recover'd.</hi>
+            </p>
+            <pb n="25" facs="tcp:187961:14"/>
+            <p>The Act in this laſt Clauſe referred to, is the 7th and 8th <hi>Guil.</hi> 3<hi>tii.</hi> intituled an Act for continuing ſeveral Duties, <hi>&amp;c.</hi> upon Wine, Vinegar, and Tobacco, <hi>&amp;c.</hi> and the Penalties are the Forfeiture of <hi>double the Va<g ref="char:EOLhyphen"/>lue of the Gold paid or receiv'd, and alſo twenty Pounds,</hi> half to the King and half to the In<g ref="char:EOLhyphen"/>former, to be recover'd <hi>with Coſts of Suit</hi> by Bill, Plaint, Information, or Action of Debt in any of his Majeſty's Courts, <hi>&amp;c.</hi>
+            </p>
+            <p>And <hi>an Act</hi> (is paſſed) <hi>for granting to his Majeſty ſeveral Rates or Duties upon Houſes for making good the Deficiency of clipt Money.</hi>
+            </p>
+            <p>This Tax is laid for ſeven Years, and I believe will be thought very burthenſome and diſagreeable by ſome of thoſe that are to pay it before it be expired; and I am apt to think the Parliament intended the People ſhould ſenſibly feel what they pay on this Occaſion, that they might thereby be indu<g ref="char:EOLhyphen"/>ced to take care not to permit the like Miſ<g ref="char:EOLhyphen"/>chief to grow among us any more: For no body can wholly excuſe himſelf from hav<g ref="char:EOLhyphen"/>ing contributed to it, ſince by Law every body might have refus'd clipt Money, and every body is puniſhable that utters ſuch as is apparently clipt or diminiſh'd: If there<g ref="char:EOLhyphen"/>fore the People had (as they ought to have done) generally refus'd to take any but
+<pb n="26" facs="tcp:187961:15"/>lawful Money, and <hi>proſecuted the Moneyers and other Corrupters of our Coin</hi> for uttering ſuch as was viſibly deficient, we could no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have been brought into the Condition w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now are, and therefore the Parliament ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reaſon to make us repair the Loſs by a Ta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> almoſt as odious as <hi>Chimney-Money;</hi> nay, I am told they had it under Conſideration whether they ſhou'd not do it by <hi>Chimney-Money it ſelf.</hi>
+            </p>
+            <p>The Summ of all the Proviſions made b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Parliament to prevent the Currency o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> clipt Money, are,</p>
+            <p n="1">1. That whoſoever gives more in Ta<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of clipt Money or deficient Money fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> broad or mill'd Money than it was coin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for, forfeits ten Pounds for every twent<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Shillings, and ſo in Proportion for a great<g ref="char:EOLunhyphen"/>er or leſſer Summ, <hi>viz.</hi> 6 <hi>&amp;</hi> 7 <hi>Gul. &amp; M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> An Act to prevent counterfeiting and clip<g ref="char:EOLunhyphen"/>ping the Coin of this Kingdom.<note place="margin">vide Clauſe the 1ſt.</note>
+            </p>
+            <p n="2">
+               <note place="margin">Vide Pro<g ref="char:EOLhyphen"/>clamation. and Com<g ref="char:EOLhyphen"/>mons Votes. Vid. Clauſe 2d and 3d.</note>2. That no clipt Money ſhall be cu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rant in any Payment except to the King, a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ter a Day which is now paſt.</p>
+            <p n="3">3. That the King ſhall receive no cli<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Money in his Revenues or Taxes after t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 4th of <hi>May,</hi> 1696.</p>
+            <pb n="27" facs="tcp:187961:15"/>
+            <p n="4">4. That whoſoever after the 10th of <hi>April</hi> 1696. ſhall pay or receive Guineas for more than 22 s. and in proportion any greater or leſs peice of coined Gold, ſhall forfeit for every offence double the value of the Gold, and 20 l. half to the King, half to the In<g ref="char:EOLhyphen"/>former.</p>
+            <p n="5">
+               <note place="margin">
+                  <hi>Vide</hi> Clauſe 8.</note>5. That whoſoever has in their Cuſto<g ref="char:EOLhyphen"/>dy, after the 10th of <hi>February,</hi> any unclipt hammer'd Money, whereon are both Rings, or major part of the Letters, ſhall punch a Hole through the middle thereof, without diminiſhing the the Silver, before they diſ<g ref="char:EOLhyphen"/>poſe thereof, and who ever fails in this, may be <hi>indicted, and fin'd.</hi>
+            </p>
+            <p n="6">
+               <note place="margin">
+                  <hi>Vide</hi> Clauſe 4.</note>6. That if any Perſon <hi>tender or receive</hi> any Piece ſo punch'd, which is afterwards clipt, he ſhall forfeit <hi>double the Value</hi> of the the <hi>Money ſo tendred or receiv'd</hi> amount to it Tale.</p>
+            <p n="7">
+               <note place="margin">
+                  <hi>Vide</hi> Clauſe 7.</note>7. That whoſoever ſhall after the 4th of <hi>May</hi> 1696, receive any clipt Money as Lawful Money, other than ſuch as is punch'd purſuant to the preceeding Article, or Six-pences not clipt within the inner<g ref="char:EOLhyphen"/>moſt Ring, ſhall forfeit <hi>double the Value</hi> thereof to the Informer, to be recover'd before the Juſtices in the Seſſions.</p>
+            <pb n="28" facs="tcp:187961:16"/>
+            <p>And for the eaſe of the People, that the clipt Money may not remain in their Hands,</p>
+            <p n="1">
+               <note place="margin">
+                  <hi>Vide</hi> Clauſe 2.</note>1. They may pay in all their Taxes, Debts to the Crown for Exciſe, Cuſtoms, <hi>&amp;c.</hi> and the whole Year's Land-Tax, if they pleaſe, to the Collectors at any time before the Fourth of <hi>May</hi> 1696. in Clipt-money.</p>
+            <p n="2">
+               <note place="margin">
+                  <hi>Vide</hi> Clauſe 3.</note>2. They may lend to the Exchequer, on any Act, or any Act whereon a Credit to borrow is given by Parliament, and the Loans on Clipt-money ſhall be taken at any time before the 24th of <hi>June,</hi> as if the ſame were good and lawful money.</p>
+            <p>By theſe means all the Clipt-money may certainly come into the Exchequer (unleſs new be made as faſt as the old is paid in) and there melted down (as the Parliament has ordained that it ſhall) for it has been computed that all the Silver Money in <hi>England</hi> amounts not to above five mil<g ref="char:EOLhyphen"/>lions (whereof near two are ſuppoſed to remain whole and unclipt) and here is provided room for the taking in above ſix millions. The-Land Tax muſt be reckon'd double, <hi>viz.</hi> the money it will produce, and the Loans to be made on it, which may be both in clipt money, if therefore it ſhall bring in ſeventeen hundred thouſand pounds
+<pb n="29" facs="tcp:187961:16"/>that, and the Loans make three millions four hundred thouſand pounds. The Im<g ref="char:EOLhyphen"/>poſitions on Merchandize given this Seſſion is taken by the Government for fifteen hun<g ref="char:EOLhyphen"/>dred thouſand pounds, which is to be bor<g ref="char:EOLhyphen"/>rowed on them for this years Service. The Duty on Diſtillers, <hi>&amp;c.</hi> is likewiſe taken for five hundred thouſand pounds, and the Cuſtoms, Exciſe, and other Branches of the Revenue to the 4th of <hi>May,</hi> 1698. toge<g ref="char:EOLhyphen"/>ther with what remain'd unpaid of the laſt years Taxes (when the Act requiring Col<g ref="char:EOLhyphen"/>lectors to receive Clipt money paſſed) can't be leſs than a million, if not a million and a half: but eſtimating it at a million, the whole come to ſix millions four hundred thouſand pounds, which is two millions four hundred thouſand pounds more than was computed to be of Clipt money in the Nation.</p>
+            <p>Thus, Sir, you ſoe the Parliament has taken all imaginable care, that none of the deficient or adulterate Money ſhould remain and be a loſs in the hands of the Subjects; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd made it the Peoples <hi>Duty</hi> as well as <hi>In<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ereſt</hi> not to ſuffer themſelves to be <hi>cheated with Names, and an Imaginary Fairy Treaſure <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſtead of real Riches</hi> for the future. Who<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oever therefore receives or pays Gold or <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lver, or connives at others doing ſo here<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fter otherwiſe than theſe Acts allow, ought
+<pb n="30" facs="tcp:187961:17"/>to be eſteemed <hi>an Enemy to his Country, and the Wellfare thereof, and a Promoter of the De<g ref="char:EOLhyphen"/>ſigns of thoſe, for whoſe Private or By-Ends have endeavoured to rob the Publick, and put us in Confuſion,</hi> after our Legiſlators have ſpent ſo much Time and Trouble in endeavour<g ref="char:EOLhyphen"/>ing to relieve us from the <hi>imminent Ruine</hi> we are threatened with from it. And therefore do you, Sir, and let <hi>every good Engliſhman,</hi> conform their Practice to theſe Laws, and force others to do ſo too, which only can preſerve us, leſt we relapſe into a worſe and incurable Condition.</p>
+            <closer>
+               <signed>I am, <hi>SIR, Your humble Servant,</hi> R. J</signed>
+            </closer>
+            <postscript>
+               <pb n="31" facs="tcp:187961:17"/>
+               <head>POSTSCRIPT.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Muſt beg your Pardon for an Omiſſion in my Letter, and Leave to add it in a Poſtſcript.</p>
+               <p>The Parliament obſerving that a pernici<g ref="char:EOLhyphen"/>ous Doctrin was publickly vented, <hi>viz.</hi> That the King by his Prerogative might alter the Standard of our Coin, and that it muſt be altered, and new Money made lighter than the old, and a new Name given to the old, whereby it ſhould be made current for more than it was coin'd for; (which they, that promote this Doctrin, call raiſing of our Money) were ſenſible that the Expectation of ſuch an Alteration would make, Men keep up all their weighty Money; becauſe, after the Change of the Standard (if it would buy no more Commodities than before) it would pay more Debts, and foreſeeing that ſuch an Apprehenſion in the People would leſſen, if not break the publick Credit, in regard 'tis not probable that any one would be per<g ref="char:EOLhyphen"/>ſwaded to lend the Government 5 Ounces of Silver, if he thought he ſhould be repaid again with only 4 Ounces. To prevent the Evils that ſuch Opinions had occaſioned, or
+<pb n="32" facs="tcp:187961:18"/>might occaſion; and to ſecure the People, that when they truſted the Government they ſhould not be repaid by Words and new Names, but in the ſame Coin, or <hi>Weight and Fineneſs of Metal</hi> they advanced upon its Credit. In the <hi>Act for Remedying the ill State of the Coin of this Kingdom,</hi> It is Enacted, That the clipt Money (which that Act requires to be melted down) ſhall be Recoin'd by the Mill and Preſs into <hi>Current Money of this Realm,</hi> to hold ſuch <hi>Weight</hi> and <hi>Fineneſs</hi> as are preſcribed by the preſent In<g ref="char:EOLhyphen"/>denture of the Mint, which <hi>Weight and Fine<g ref="char:EOLhyphen"/>neſs</hi> (as they are the old Lawful Standard of <hi>England,</hi> ſo by that Act) are declared to Be, and ſhall <hi>Be and Remain to be the Stand<g ref="char:EOLhyphen"/>ard</hi> for the Lawful Silver Coin of this King<g ref="char:EOLhyphen"/>dom.</p>
+               <p>I need not remark to you, that the Word, <hi>ſhall remain to be,</hi> being indefinite, imports as much as if it had been ſaid, <hi>ſhall alway. remain to be.</hi>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:187961:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
